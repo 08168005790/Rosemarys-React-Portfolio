@@ -1,7 +1,7 @@
 
 # React.js 
 
-A React landing page from frontend mentor.io built React.js. Building this project helped me in creating responsive websites.
+A React landing page from frontend mentor.io built with React.js. Building this project helped me in creating responsive websites.
 
 
 ## Getting Started
